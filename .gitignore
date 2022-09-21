@@ -1,0 +1,26 @@
+# Logs
+Driko/logs
+Driko/*.log
+Driko/npm-debug.log*
+Driko/yarn-debug.log*
+Driko/yarn-error.log*
+Driko/pnpm-debug.log*
+Driko/lerna-debug.log*
+Driko/node_modules
+Driko/.DS_Store
+Driko/dist
+Driko/dist-ssr
+Driko/coverage
+Driko/*.local
+Driko/cypress/videos/
+Driko/cypress/screenshots/
+
+# Editor directories and files
+Driko/.vscode/*
+Driko/!.vscode/extensions.json
+Driko/.idea
+Driko/*.suo
+Driko/*.ntvs*
+Driko/*.njsproj
+Driko/*.sln
+Driko/*.sw?
